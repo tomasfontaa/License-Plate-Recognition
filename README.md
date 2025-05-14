@@ -29,6 +29,7 @@ The goal is to create a full pipeline that:
 - `train/`, `val/`, `test/` – Training, validation, and test datasets
 - `data.yaml` – Configuration file for YOLO training
 - `License_Plate_Recognition.ipynb` – Main notebook
+ - `Custom Workflow Object Detection.zip` – **ZIP file with test images**
 
 ## 🚀 Main Steps
 
@@ -59,7 +60,7 @@ These results were calculated by comparing predictions with real plate numbers f
 
 1. Open the notebook: `License_Plate_Recognition.ipynb`
 2. Follow each cell step by step
-3. Make sure to upload the dataset ZIP file when asked
+3. Upload the ZIP file `Custom Workflow Object Detection.zip` when asked
 4. All predictions and metrics will be shown directly
 
 ---

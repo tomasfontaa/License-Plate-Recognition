@@ -48,21 +48,6 @@ The goal is to create a full pipeline that:
 
 These results were calculated by comparing predictions with real plate numbers found in the image filenames.
 
-## 🧠 Final Thoughts
-
-- The model works well in most images.
-- Performance drops when plates are very rotated or low quality.
-- Future improvements:
-  - Use a model to enhance image resolution.
-  - Improve perspective correction for better OCR results.
-
-## ✅ How to Run
-
-1. Open the notebook: `License_Plate_Recognition.ipynb`
-2. Follow each cell step by step
-3. Upload the ZIP file `Custom Workflow Object Detection.zip` when asked
-4. All predictions and metrics will be shown directly
-
 ---
 
 Made by Tomás Fonta

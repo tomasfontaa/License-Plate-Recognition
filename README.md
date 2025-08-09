@@ -50,4 +50,4 @@ These results were calculated by comparing predictions with real plate numbers f
 
 ---
 
-Made by Tomás Fonta
+Made by Tomás Fonta, Carlos Sainz y Gonzalo Villar.
